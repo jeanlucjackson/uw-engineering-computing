@@ -4,7 +4,7 @@ CEE cinco zero cinco HW #4
 11/07/16
 '''
 
-#Import Directories
+# Import libraries
 import os
 import copy
 import matplotlib.pyplot as plt
