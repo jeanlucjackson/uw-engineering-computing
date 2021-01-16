@@ -1,7 +1,7 @@
 CEE220Scores Program (Python Code)  
 ''' 
 Jean-Luc Jackson 
-CEE 505 HW #3 
+CEE cinco zero cinco HW #3 
 10/28/16 
 ''' 
 ### Import functions 
