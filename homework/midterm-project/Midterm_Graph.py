@@ -1,6 +1,6 @@
 '''
-Jean-Luc Jackson & Connor Lester
-CEE 505 HW #4
+Jean-Luc Jackson
+CEE cinco zero cinco HW #4
 11/07/16
 '''
 
